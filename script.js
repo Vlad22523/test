@@ -3,3 +3,5 @@ let ogj = {
 };
 
 console.log(typeof ogj["0"]);
+
+let ass = 2;
